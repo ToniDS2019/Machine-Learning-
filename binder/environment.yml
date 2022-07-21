@@ -1,4 +1,6 @@
 dependencies:
-  - matplotlib
+  - scipy
   - numpy
+  - matplotlib
   - pandas
+  - sklearn
